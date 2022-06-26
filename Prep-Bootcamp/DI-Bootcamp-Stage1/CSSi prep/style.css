@@ -1,0 +1,33 @@
+/*Selector {
+	Property:  value;
+}*/
+
+body{
+background-image: url(backgroundimage.jpg);
+}
+
+h2, p: {
+	color: #579532;
+	text-align: center;
+	border:  5px solid purple;
+	cursor: pointer;
+}
+
+p{ 
+text-transform: uppercase; }
+li {
+	list-style: none;
+	display: inlione-black;
+}
+.webtext {
+	border: 5px dashed green;
+}
+.active {
+	color: red;
+}
+#div1 {
+	background: rgba(0, 0, 225, 0.2);
+}
+#div2 {
+	background: rgba(225, 0, 0, 0.2);
+}

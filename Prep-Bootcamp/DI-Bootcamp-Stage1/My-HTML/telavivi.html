@@ -1,0 +1,47 @@
+
+<form action="#">
+    <div>
+        <label for="username">Username</label>
+        <input type="text" id="username" name="username">
+    </div>
+    <div>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password">
+    </div>
+    <div>
+        <label>Favorite Instructor</label>
+
+        <label for="elie">Elie</label>
+        <input type="radio" name="favorite_instructor" id="elie" value="elie">
+        <label for="matt">Matt</label>
+        <input type="radio" name="favorite_instructor" id="matt" value="matt" checked>
+        <label for="tim">Tim</label>
+        <input type="radio" name="favorite_instructor" id="tim" value="tim">
+    </div>
+    <div>
+        <label>Where do you live</label>
+
+        <select name="city">
+            <option value="Paris">Paris</option>
+            <option value="NY">New York</option>
+            <option value="TLV" selected>Tel Aviv</option>
+        </select>
+    </div>
+    <div>
+        <label>Favorite Programming Language(s)</label>
+
+        <label for="ruby">Ruby</label>
+        <input type="checkbox" name="favorite_language1" value="Ruby" id="ruby">
+        <label for="javascript">JavaScript</label>
+        <input type="checkbox" name="favorite_language2" value="JavaScript" id="javascript">
+        <label for="python">Python</label>
+        <input type="checkbox" name="favorite_language3" value="Python" id="python">
+    </div>
+    <div>
+        <label>Additional Comments</label>
+        <textarea name="comments" id="com" cols="30" rows="10"></textarea>
+    </div>
+    <div>
+        <input type="submit" value="click to submit">
+    </div>
+</form>

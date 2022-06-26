@@ -1,0 +1,41 @@
+
+body{
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+}
+.parent {
+	background-color: #af47ff;
+	padding: 30px;
+	width: 100%;
+}
+.child {
+	background-color: #ff4749;
+	padding: 30px;
+
+}
+.box {
+	background-color: #f3ff47;
+	padding: 30px;
+	border: 2px solid #333;
+	text-align: left;
+	font-size: 22px;
+	position: relative;
+}
+.box img {
+	width: 100px;
+	height: 100px;
+	float: left;
+	padding: 10px;
+}
+@media (min-width: 1024px){
+	.parent {
+		background-color: orange;
+	}
+}
+@media (max-width:  726px){
+	.box {
+		background-color: green;
+	}
+}

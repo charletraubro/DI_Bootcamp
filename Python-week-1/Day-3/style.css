@@ -1,0 +1,31 @@
+.outer-div{
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	flex-direction:row;
+	}
+.inner-div{
+	
+	padding:  30px;
+	text-align: center;
+	width: 800px;
+	height: 1px;
+	color: white;
+	font-size: 20px;
+}
+.bg1{
+	background-color: darkblue;
+	align-self: flex-start;
+	width: 200px;
+}
+
+.bg2 {
+	background-color: lightblue;
+	
+	
+
+}
+.bg3 {
+	background-color: orangered;
+
+}

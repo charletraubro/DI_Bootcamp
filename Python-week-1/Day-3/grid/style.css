@@ -1,0 +1,43 @@
+.outer-div{
+	display: grid;
+	grid-template-columns: minmax(150px, 25%) 75%;
+	grid-template-rows: 100px 100px ;
+	grid-gap: 25px;
+}
+.inner-div{
+	
+	border: 1px solid #000;
+	padding: 20px;
+}
+.box-1 {
+	background-color: #af47ff;
+	grid-column-start: 1;
+	grid-column-end: 4;
+	}
+
+.box-2 {
+	background-color: #ff4797;
+	grid-column-start: 1;
+	grid-column-end: 3;
+}
+}
+
+.box-3 {
+	background-color: #f3ff47;
+}
+
+.box-4 {
+	background-color: #af67ff;
+}
+
+.box-5 {
+	background-color: #af12ff;
+	grid-column-start: 2;
+	grid-column-end: 4;
+}
+
+.box-6 {
+	background-color: #af47ff;
+	grid-column-start: 1;
+	grid-column-end: 4;
+}
