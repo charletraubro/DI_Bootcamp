@@ -109,17 +109,17 @@
 // console.log(obj.single);
 
 //Exercise 1
-let obj={
-	username: 'charlestraubro',
-	password: 'trautrau',
-}
-database=[obj],
+// let obj={
+// 	username: 'charlestraubro',
+// 	password: 'trautrau',
+// }
+// database=[obj],
 
-newsfeed=[
-{username : "charles1", timeline: "zero"},
-{username : "charles2", timeline: "one"},
-{username : "charles3",timeline: "two"}
-]
+// newsfeed=[
+// {username : "charles1", timeline: "zero"},
+// {username : "charles2", timeline: "one"},
+// {username : "charles3",timeline: "two"}
+// ]
 
 
-console.log(database[0].password);
+// console.log(database[0].password);
