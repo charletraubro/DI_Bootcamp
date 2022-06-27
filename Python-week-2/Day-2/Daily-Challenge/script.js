@@ -11,7 +11,12 @@ console.log(wordBad);
 if (wordBad>wordNot) {
 	console.log(`${sentence2} ${var1} ${sentence3}`)
 }
+<<<<<<< HEAD
 else if (wordBad<wordNot) {
 	console.log(`${sentence1}`)
+=======
+else if (wordBad<wordNot){
+	console.log(`${sentence})
+>>>>>>> f71d5e054ef29abdd0fbce9aa165c0aaffd91b9b
 }
 
