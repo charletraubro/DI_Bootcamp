@@ -11,7 +11,7 @@ console.log(wordBad);
 if (wordBad>wordNot) {
 	console.log(`${sentence2} ${var1} ${sentence3}`)
 }
-else if (wordBad<wordNot){
-	console.log(sentence)
+else if (wordBad<wordNot) {
+	console.log(`${sentence1}`)
 }
 
