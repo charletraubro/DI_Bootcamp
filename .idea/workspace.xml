@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6572421b-dc4e-41d2-a759-6817a47fba3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Prep-Bootcamp/DI-Bootcamp-Stage1/FinalProject/elonmusk.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Prep-Bootcamp/DI-Bootcamp-Stage1/FinalProject/finalproject.html" beforeDir="false" afterPath="$PROJECT_DIR$/Prep-Bootcamp/DI-Bootcamp-Stage1/FinalProject/finalproject.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Prep-Bootcamp/DI-Bootcamp-Stage1/FinalProject/finalprojectstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Prep-Bootcamp/DI-Bootcamp-Stage1/FinalProject/finalprojectstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-week-1/Day-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-week-1/Day-2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-week-1/Day-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-week-1/Day-3/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-week-1/Day-3/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python-week-1/Day-3/website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-week-1/Day-3/website/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-week-1/Day-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-week-1/Day-4/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DI-Bootcamp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/charlestraubro/Desktop/Coding-2022",
+    "last_opened_file_path": "/Users/charlestraubro/Desktop/new_repo/DI_Bootcamp",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -40,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656243965395</updated>
       <workItem from="1656243966880" duration="88000" />
+      <workItem from="1657177078733" duration="5000" />
     </task>
     <servers />
   </component>
