@@ -1,47 +1,63 @@
-* {
-  margin:0;
-  padding: 0;
-  box-sizing: border-box;
+body {
+  background: url("https://image.freepik.com/free-vector/poker-table-background-green-color_47243-1073.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-body{
-  background-color: darkgrey;
-}
-#sidebar {
-  display: grid;
-  grid-gap: 5px;
-  grid-template-columns: repeat(3,1fr);
-  grid-template-rows: repeat(9,1fr);
-  width: 20%;
-  float:left;
-  background-color: darkgrey;
-  padding: 5px;
-  height: 100vh;
-  border: 1px solid #ccc;
-}
-#sidebar > * {
-  border: 1px solid lightgrey;
-  /* height: 50px; */
-}
-#main {
-  display: grid;
-  grid-template-columns: repeat(60,1fr);
-  height: 100vh;
-  /* padding: 5px 5px 5px 0; */
-  border: 1px solid #ccc;
-}
-#main > * {
-  border: 1px solid lightgrey;
-}
-button {
-  grid-column: 1/4;
-  background-color: whitesmoke;
-  border:none;
-  border-radius: 8px;
-  color: #000;
-  padding: 5px;
+
+.container {
+  margin: 0 auto;
   text-align: center;
-  font-size: 22px;
-  margin: 5px;
+  color: white;
 }
-  margin: 5px;
+
+.flex-blackjack-row-1,
+.flex-blackjack-row-2,
+.flex-blackjack-row-3 {
+  display: flex;
+  padding: 5px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.flex-blackjack-row-2 div {
+  padding: 10px;
+  flex: 1;
+  height: 350px;
+  text-align: center;
+}
+
+.flex-blackjack-row-2 div img {
+  padding: 10px;
+}
+
+table,
+th,
+td {
+  padding: 5px;
+  border: 1px solid white;
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+
+.flex-blackjack-row-3 div {
+  padding: 10px;
+}
+
+.flex-blackjack-row-3 button {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#win-header {
+  color: lightgreen;
+}
+
+#loss-header {
+  color: #d32f2f;
+}
+
+#draw-header {
+  color: yellow;
 }
