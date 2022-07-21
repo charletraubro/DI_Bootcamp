@@ -53,6 +53,6 @@
 #     def random(length):
 #         randomi = string.
 
-import datetime
-today_date = datetime.date.today()
-print(today_date)
+# import datetime
+# today_date = datetime.date.today()
+# print(today_date)

@@ -1,0 +1,10 @@
+Additional line #1
+Additional line #2
+Additional line #3
+
+Additional l!&@^#^@!#^!@ional line #5
+Additional line #6
+
+
+This a new text created by using the 
+write_to_file function...THIS TEXT IS APPENDED TO END OF FILE!
