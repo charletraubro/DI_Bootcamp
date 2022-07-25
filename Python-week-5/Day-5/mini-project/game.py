@@ -38,10 +38,13 @@ class Game:
                 print("You lose!")
             if self.comp == "paper":
                 print("You win!")
+    
     get_user_item()
     get_computer_item()
-    get_game_result()
     
+    def play(self):
+        scores = "win:{} "
+    get_game_result()
 
 
 
