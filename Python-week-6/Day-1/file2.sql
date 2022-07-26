@@ -1,0 +1,5 @@
+--select * from customer 
+--select first_name, 
+   -- last_name 
+    --from customer
+-- select distinct create_date from customer
